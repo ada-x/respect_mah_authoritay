@@ -1,6 +1,5 @@
-## simple steps to get movie trailer showcase up-and-running:**
-###### ** [some steps may not be necessary]
-
+## simple steps to get movie trailer showcase up-and-running:
+###### (some steps may not be necessary)
 ##### * select a sturdy, durable case, with space for your preferred hardware
 ##### * remove any excess interior panels
 ##### * install power supply
@@ -24,7 +23,6 @@
 ##### * call a terminal
 ##### * call a browser, direct it to (https://github.com/ada-x/respect_mah_authoritay)
 ### * download fresh_tomatoes.py, movies.py, and movies_project.py
-### * call another terminal
-### * check that all 3 files are in the working directory by typing: ls | grep py 
-### * from the command line, type: python movies_project.py
-### * and voila! you'll be viewing trailers of my favorite movies, in no time flat! :D
+### * from the command line, check that all 3 files are in the working directory by typing: ls | grep py 
+### * if you see all 3 files, from the command line, type: python movies_project.py
+# * and voila! you'll be viewing trailers of my favorite movies, in no time flat! :D
