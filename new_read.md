@@ -1,8 +1,11 @@
-##### * select a sturdy, durable case
+## easy steps to get is up and running:
+
+##### * select a sturdy, durable case, with space for your preferred hardware
 ##### * remove any excess interior panels
 ##### * install power supply
 ##### * install cpu: for intel processors, be sure to note the contact array is set with pins on the motherboard; if you are installing an amd cpu note that the pins are on the cpu itself. lift the arm carefully, and try not to flinch. or sneeze.
-##### * install cooler, using way less thermal paste than you think you need##### * install ram. for single stick use the a1 slot, for 2 use a1/b1, etc. remember, you can always download more at (http://downloadmoreram.com/)
+##### * install cooler, using way less thermal paste than you think you need
+##### * install ram. for single stick use the a1 slot, for 2 use a1/b1, etc. remember, you can always download more at (http://downloadmoreram.com/)
 ##### * align motherboard properly in case, screw/snap in place
 ##### * drop your 3.5in hard drive into its cage; if you bought another size, return it and try not to be such a show off
 ##### * snap in whatever cards you bought 
