@@ -1,4 +1,5 @@
-## easy steps to get movie trailer showcase up-and-running:
+## simple steps to get movie trailer showcase up-and-running:**
+### ** [some steps may not be necessary]
 
 ##### * select a sturdy, durable case, with space for your preferred hardware
 ##### * remove any excess interior panels
@@ -26,4 +27,4 @@
 ##### * call another terminal
 ##### * use <ls | grep py> to check that all 3 files are in the working directory
 ##### * from the command line, type <python movies_project.py>
-##### * and voila! you're viewing trailers of my favorite movies, in no time flat! :D
+##### * and voila! you'll be viewing trailers of my favorite movies, in no time flat! :D
