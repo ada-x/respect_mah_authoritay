@@ -39,9 +39,9 @@
 ###### * call a browser, direct it to (https://github.com/ada-x/respect_mah_authoritay)
 #### * download fresh_tomatoes.py, movies.py, and movies_project.py
 #### * from the command line, check that all 3 files are in the working directory by typing: 
-###### ls | grep py 
+##### ls | grep py 
 #### * if you see all 3 files, from the command line, type: 
-###### python movies_project.py
+##### python movies_project.py
 #### * and voila! you're viewing trailers of my favorite movies :D
 
 
