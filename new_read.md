@@ -1,4 +1,4 @@
-## easy steps to get is up and running:
+## easy steps to get movie trailer showcase up-and-running:
 
 ##### * select a sturdy, durable case, with space for your preferred hardware
 ##### * remove any excess interior panels
