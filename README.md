@@ -12,8 +12,6 @@
 ...* movies_project.py
 #### you can enter your favorite movies as class instances in movies_project.py, like this:
 ##### your_movie = movies.Movie('title', 'trailer_url', 'storyline', 'poster_url')
-#### example:
-#####   big_fish = movies.Movie('Big Fish','https://www.youtube.com/watch?v=M3YVTgTl-F0', 'a story about the stories between a father and son','http://www.gstatic.com/tv/thumb/movieposters/32942/p32942_p_v8_aa.jpg')
 
 ## who is responsible for this??
 #### i am! i wrote the class definition and entered in some movies i don't hate. the good people at udacity supplied fresh_tomatoes.py, which you can get from this github repo: (https://github.com/adarsh0806/ud036_StarterCode/blob/master/fresh_tomatoes.py) for questions, comments, etc, email me at xoxi.ixchel@gmail.com. enjoy!
